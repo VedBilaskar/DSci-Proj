@@ -1,1 +1,3 @@
 youtube-sentiment-analysis = https://github.com/hellotinah/youtube_sentiment_analysis
+twitter-sentiment-analysis = https://github.com/sharmaroshan/Twitter-Sentiment-Analysis
+chatbot-sentiment-analysis = https://github.com/codete/sentiment-analysis-for-chatbots
