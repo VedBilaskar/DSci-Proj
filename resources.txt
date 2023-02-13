@@ -15,3 +15,11 @@ Chinmay :
 https://github.com/siddharthakanchar/Url-classification-Prediction-Model-/blob/master/Url%20Classification%20prediction%20model%20.ipynb
 https://github.com/anmolcool007/stock-prediction
 https://github.com/vishwajit2/twitter-bot-detection
+
+
+
+
+*** RESOURCES
+
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_uvHu4JL9AhW9rVYBHThRAGAQFnoECBcQAQ&url=https%3A%2F%2Fmonkeylearn.com%2Fsentiment-analysis%2F&usg=AOvVaw0kopkkOnr3uO_YfVDRqYay
+- https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html
