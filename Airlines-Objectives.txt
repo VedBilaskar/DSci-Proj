@@ -1,0 +1,11 @@
+﻿1) Classify tweets as positive,negative,neutral based on each airline company as well as in general
+
+2) Text representation( using bag of words, TFIDF, word to vector)
+
+3) Plot most frequently used words ( general , positive , negative , neutral)
+
+4) Tweet length distribution into positive ,negative, neutral
+
+5) Training on various models and accuracy comparision
+
+6) Rating airlines based on sentiments and identifying best and worst 
