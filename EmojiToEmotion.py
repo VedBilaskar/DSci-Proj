@@ -4,6 +4,10 @@ emoji_to_emotion = {
     ":grinning_face:": "happy",
     ":red_heart:": "love",
     ":angry_face:": "angry",
+    ":thumbs_down:": "bad",
+    ":ok_hand:": "nice",
+    ":clap:": "awesome",
+    ":thumbs_up:": "good",
     ":crying_face:": "sad",
     ":face_with_open_mouth:": "surprised"
 }
