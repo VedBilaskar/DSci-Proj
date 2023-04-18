@@ -24,3 +24,10 @@ https://github.com/vishwajit2/twitter-bot-detection
 
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_uvHu4JL9AhW9rVYBHThRAGAQFnoECBcQAQ&url=https%3A%2F%2Fmonkeylearn.com%2Fsentiment-analysis%2F&usg=AOvVaw0kopkkOnr3uO_YfVDRqYay
 - https://www.kdnuggets.com/2018/08/emotion-sentiment-analysis-practitioners-guide-nlp-5.html
+
+
+
+# src
+- https://www.kaggle.com/code/yommnamohamed/sentiment-analysis-using-sentiwordnet/notebook#Lemmatization-Function
+- hhttps://colab.research.google.com/github/gal-a/blog/blob/master/docs/notebooks/nlp/nltk_preprocess.ipynb#scrollTo=AdFlT_KXebxs
+- https://github.com/maxxx580/twitter-sentiment-analysis
